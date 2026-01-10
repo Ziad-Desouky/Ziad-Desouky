@@ -1,6 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on frontend projects and improving my skills.<br>🌱 I’m currently learning React.js<br>💬 Ask me about HTML, CSS, responsive design, and JavaScript fundamentals.<br>⚡ Fun fact: I love transforming designs into responsive web interfaces.<br>
-
+🛠️ I’m currently working on frontend projects and improving my skills.<br>🌱 I’m currently learning React.js<br>💬 Ask me about HTML, CSS, responsive design, and JavaScript fundamentals.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ziadayman.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-ayman157) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ziaddesouky6@gmail.com) 
